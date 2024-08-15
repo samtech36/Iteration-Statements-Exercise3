@@ -131,6 +131,8 @@ namespace IterationStatements
         // 1. Write a method that checks if an integer (provided by the user) is within the range of -10 to 10.
         //    - Method Signature: bool IsInRange(int number)
         //    - Returns true if the number is within the range, false otherwise.
+        
+        //my answer for #1
         public static bool IsInRange(int number7)
         {
             if (number7 >= -10 && number7 <= 10)
@@ -154,6 +156,8 @@ namespace IterationStatements
         // 2. Write a method that displays the multiplication table (from 1 to 12) for a given integer.
         //    - Method Signature: void DisplayMultiplicationTable(int number)
         //    - Should print each line in the format: "1 * number = result"
+        
+        //my answer for #2
 
         public static void DisplayMultiplicationTable()
         
